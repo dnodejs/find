@@ -67,10 +67,11 @@ https://github.com/GongT/LEAN-G/blob/master/package.json
 
 http://gajus.com/sandbox/contents/examples/jquery/#ut-dignissim-lobortis-vestibulum
 
+https://github.com/leancloud/leanchat-ios
 
 http://sunng.info/awesome-leancloud/
 
-
+https://github.com/lzwjava/LZAlbum
 
 https://github.com/greenmoon55/firstapp
 
