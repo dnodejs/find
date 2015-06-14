@@ -13,3 +13,4 @@ work
 * [deploy tool](https://leancloud.cn/docs/cloud_code_commandline.html#部署)
 * [cloud_code_commandline](https://leancloud.cn/docs/cloud_code_commandline.html)
 * [typescript](http://www.typescriptlang.org/Handbook#writing-dts-files)
+* [cql_guide](https://leancloud.cn/docs/cloud_code_commandline.html#CQL_交互查询)
