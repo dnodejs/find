@@ -65,6 +65,9 @@ https://github.com/sdjcw/apposs-center
 https://github.com/GongT/LEAN-G/blob/master/package.json
 
 
+http://design.1sters.com/material_design/material-design/introduction.html
+
+
 http://gajus.com/sandbox/contents/examples/jquery/#ut-dignissim-lobortis-vestibulum
 
 https://github.com/leancloud/leanchat-ios
@@ -78,4 +81,9 @@ https://github.com/greenmoon55/firstapp
 
 https://github.com/xhzengAIB/MessageDisplayKit
 
+
+
+http://yujiangshui.com/javascript-levenshtein-distance/
+
+https://forum.leancloud.cn/t/ji-hai-shi-bei-mei-zhou-yi-du-2015-01-09/262/10
 https://github.com/caarlos0/up
