@@ -74,4 +74,7 @@ http://sunng.info/awesome-leancloud/
 
 https://github.com/greenmoon55/firstapp
 
+
+https://github.com/xhzengAIB/MessageDisplayKit
+
 https://github.com/caarlos0/up
