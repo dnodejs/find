@@ -10,3 +10,4 @@ find
 work
 
 * [site](http://dnodejs.avosapps.com/)
+* [deploy tool](https://leancloud.cn/docs/cloud_code_commandline.html#部署)
