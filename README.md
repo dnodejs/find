@@ -1,6 +1,10 @@
 # find
 find
 
+
+https://github.com/leancloud/cloud-code-weixin
+https://github.com/leancloud/cloud-code-weixin/blob/master/cloud/weixin.js
+
 * [http://tds.hlntv.com/](http://tds.hlntv.com/)
 * [jifen](http://naotu.com/Mall/)
 * [discourse](https://github.com/discourse/discourse)
